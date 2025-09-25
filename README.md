@@ -2,7 +2,11 @@
 
 Learn about circuits with ease
 
-By Charlie Kalapati ((@crkalapat)[https://github.com/crkalapat]) and Heng Ye ((@HengYeDev)[https://github.com/hengyedev])
+*2nd Place Winner @ HackMIT Blueprint Hackathon 2025*
+
+[Featured on MIT Admissions Blog](https://mitadmissions.org/blogs/entry/live-blog-blueprint-2025/)
+
+By Charlie Kalapati ([@crkalapat](https://github.com/crkalapat])) and Heng Ye ([@HengYeDev](https://github.com/hengyedev))
 
 (Note: We originally planned to host the code on GitLab, but then realized that we had to use GitHub, which is why there is a late initial commit. We also used PyCharm instead of Git version control to primarily collaborate, due to small group size.)
 
