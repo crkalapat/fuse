@@ -1,0 +1,4 @@
+*.pt
+*.pt.part
+.idea/
+.DS_Store
